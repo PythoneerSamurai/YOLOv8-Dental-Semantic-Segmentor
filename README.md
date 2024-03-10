@@ -11,7 +11,7 @@ A Semantic Segmentation Model trained in YOLOv8, that segments tooth images into
 You can either clone my repository by running the following command in your terminal (remember to open the terminal in the folder you want this project in)
 
 ```bash
- git clone https://github.com/PythoneerSamurai/Open-Weather-App.git
+ https://github.com/PythoneerSamurai/YOLOv8-Dental-Semantic-Segmentor.git
 ```
 
 Otherwise, you can just download this project in the form of a ZIP file, by clicking the 'green code button' and then clicking the 'download ZIP' button.
